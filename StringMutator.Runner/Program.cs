@@ -7,7 +7,7 @@ namespace StringMutator.Runner
     {
         static void Main(string[] args)
         {
-            string welcome = "Welcome\nto\nthe\nString\nMutator.";
+            string welcome = "Welcome to the\nString Mutator.";
 
             var wordArray = welcome.Lines();
 
