@@ -1,5 +1,6 @@
-using System;
+﻿using System;
 using Xunit;
+using StringMutator.Extension;
 
 namespace StringMutator.Tests
 {
@@ -8,7 +9,9 @@ namespace StringMutator.Tests
         [Fact]
         public void Test1()
         {
+            string welcome = "Welcome to the\nString Mutator.";
 
+            Assert.Equal(2, welcome.Lines().Length);
         }
     }
 }

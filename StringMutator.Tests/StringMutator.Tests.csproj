@@ -12,5 +12,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\StringMutator.Runner\StringMutator.Runner.csproj" />
+    <ProjectReference Include="..\StringMutator.Extension\StringMutator.Extension.csproj" />
   </ItemGroup>
 </Project>
