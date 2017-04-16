@@ -5,7 +5,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMutator.Runner", "Str
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMutator.Tests", "StringMutator.Tests\StringMutator.Tests.csproj", "{5B24E185-FF01-4DD4-9894-5AF4A85BB5FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMutator.Mutate", "StringMutator.Mutate\StringMutator.Mutate.csproj", "{8C933045-45EF-476E-AC7D-8BEB48C71295}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMutator.Extension", "StringMutator.Extension\StringMutator.Extension.csproj", "{68A9E0D8-330D-4ED9-B3A7-E4A8564F7D72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,9 +21,9 @@ Global
 		{5B24E185-FF01-4DD4-9894-5AF4A85BB5FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B24E185-FF01-4DD4-9894-5AF4A85BB5FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B24E185-FF01-4DD4-9894-5AF4A85BB5FA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8C933045-45EF-476E-AC7D-8BEB48C71295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8C933045-45EF-476E-AC7D-8BEB48C71295}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8C933045-45EF-476E-AC7D-8BEB48C71295}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8C933045-45EF-476E-AC7D-8BEB48C71295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68A9E0D8-330D-4ED9-B3A7-E4A8564F7D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A9E0D8-330D-4ED9-B3A7-E4A8564F7D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A9E0D8-330D-4ED9-B3A7-E4A8564F7D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A9E0D8-330D-4ED9-B3A7-E4A8564F7D72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

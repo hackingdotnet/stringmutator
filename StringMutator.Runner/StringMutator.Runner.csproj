@@ -6,6 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\StringMutator.Mutate\StringMutator.Mutate.csproj" />
+    <ProjectReference Include="..\StringMutator.Extension\StringMutator.Extension.csproj" />
   </ItemGroup>
 </Project>
