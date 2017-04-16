@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMutator.Runner", "StringMutator.Runner\StringMutator.Runner.csproj", "{ED86ABE5-AE19-4C29-89F4-E90078B3732E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMutator.Tests", "StringMutator.Tests\StringMutator.Tests.csproj", "{5B24E185-FF01-4DD4-9894-5AF4A85BB5FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMutator.Mutate", "StringMutator.Mutate\StringMutator.Mutate.csproj", "{8C933045-45EF-476E-AC7D-8BEB48C71295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED86ABE5-AE19-4C29-89F4-E90078B3732E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED86ABE5-AE19-4C29-89F4-E90078B3732E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED86ABE5-AE19-4C29-89F4-E90078B3732E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED86ABE5-AE19-4C29-89F4-E90078B3732E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B24E185-FF01-4DD4-9894-5AF4A85BB5FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B24E185-FF01-4DD4-9894-5AF4A85BB5FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B24E185-FF01-4DD4-9894-5AF4A85BB5FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B24E185-FF01-4DD4-9894-5AF4A85BB5FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C933045-45EF-476E-AC7D-8BEB48C71295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C933045-45EF-476E-AC7D-8BEB48C71295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C933045-45EF-476E-AC7D-8BEB48C71295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C933045-45EF-476E-AC7D-8BEB48C71295}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
