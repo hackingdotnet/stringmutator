@@ -73,7 +73,7 @@ namespace StringMutator.Tests
             var primer = "lorem ipsum dolor"; // 17 char's
             var expected = new string[] { "lore", "m ip", "sum ", "dolo", "r" };
             //Act
-            var actual = primer.Chop(4); // chop into 4 chars array elements
+            var actual = primer.Chop(4); // chop into 4 chars elements array 
             //Assert
             Assert.Equal(expected, actual);
         }
